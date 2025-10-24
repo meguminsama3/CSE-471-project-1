@@ -1,0 +1,1040 @@
+<score bpm="120" beatspermeasure="4">
+<instrument instrument="Additive">
+<note measure="1" beat="1" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="2" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="2.5" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="3" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="4" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="1" duration="1.0" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="2" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="2.5" duration="0.5" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="3" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="4" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="1" duration="0.5" note="A5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="1.5" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="2" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="2.5" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="3" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="4" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="1" duration="0.5" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="1.5" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="2" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="2.5" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="3" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="4" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="1" duration="0.5" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="1.5" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="2" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="2.5" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="3" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="4" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="1" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="2" duration="0.5" note="A5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="2.5" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="3" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="4" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="1" duration="0.5" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="1.5" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="2" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="3" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="3.5" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="4" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="1" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="2" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="2.5" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="3" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="4" duration="1.0" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="1" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="1.5" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="2" duration="0.5" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="2.5" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="3" duration="1.0" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="4" duration="1.0" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="1" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="1.5" duration="0.5" note="G5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="2" duration="0.5" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="2.5" duration="0.5" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="3" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="4" duration="1.0" note="C5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="1" duration="1.0" note="E4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="2" duration="0.5" note="D4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="2.5" duration="0.5" note="C4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="3" duration="1.0" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="4" duration="1.0" note="E2">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="1" duration="0.5" note="E1">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="1.5" duration="0.5" note="D1">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="2" duration="1.0" note="E0">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="3" duration="0.5" note="D0">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="3.5" duration="0.5" note="E-1">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="4" duration="1.0" note="E-2">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="1" duration="0.5" note="G-3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="1.5" duration="0.5" note="A-4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="2" duration="0.5" note="G-4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="2.5" duration="0.5" note="E-4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="3" duration="1.0" note="E-5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="4" duration="1.0" note="E-6">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="1" duration="1.0" note="C-6">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="2" duration="0.5" note="E-7">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="2.5" duration="0.5" note="G-8">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="3" duration="1.0" note="E-8">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="4" duration="1.0" note="D-8">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="1" duration="0.5" note="E-9">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="1.5" duration="0.5" note="D-9">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="2" duration="1.0" note="C-9">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="3" duration="0.5" note="D-10">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="3.5" duration="0.5" note="E-11">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="4" duration="1.0" note="G-12">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="1" duration="0.5" note="F-12">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="1.5" duration="0.5" note="E-12">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="2" duration="1.0" note="D-12">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="3" duration="0.5" note="E-13">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="3.5" duration="0.5" note="F-14">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="4" duration="1.0" note="A-15">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="1" duration="0.5" note="F-15">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="1.5" duration="0.5" note="F-16">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="2" duration="0.5" note="A-17">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="2.5" duration="0.5" note="F-17">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="3" duration="1.0" note="F-18">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="4" duration="1.0" note="F-19">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="1" duration="0.5" note="F-20">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="1.5" duration="0.5" note="E-20">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="2" duration="1.0" note="D-20">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="3" duration="0.5" note="E-21">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="3.5" duration="0.5" note="F-22">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="4" duration="1.0" note="C-23">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="1" duration="0.5" note="G-24">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="1.5" duration="0.5" note="G-25">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="2" duration="0.5" note="E-26">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="2.5" duration="0.5" note="D-27">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="3" duration="1.0" note="G-28">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="4" duration="1.0" note="G-29">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="1" duration="0.5" note="E-30">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="1.5" duration="0.5" note="D-31">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="2" duration="1.0" note="G-32">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="3" duration="0.5" note="D-33">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="3.5" duration="0.5" note="E-34">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="4" duration="1.0" note="G-35">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="1" duration="0.5" note="G-36">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="1.5" duration="0.5" note="G-37">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="2" duration="0.5" note="E-38">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="2.5" duration="0.5" note="D-39">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="3" duration="1.0" note="C-40">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="4" duration="1.0" note="D-41">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="1" duration="0.5" note="G-42">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="1.5" duration="0.5" note="G-43">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="2" duration="0.5" note="E-44">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="2.5" duration="0.5" note="D-45">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="3" duration="1.0" note="C-46">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="4" duration="1.0" note="G-47">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="1" duration="1.0" note="C-48">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="2" duration="0.5" note="E-49">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="2.5" duration="0.5" note="G-50">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="3" duration="1.0" note="E-51">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="4" duration="1.0" note="G-52">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="1" duration="1.0" note="B-53">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="2" duration="0.5" note="A-54">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="2.5" duration="0.5" note="F-55">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="3" duration="1.0" note="E-56">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="4" duration="1.0" note="A-57">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="1" duration="1.0" note="A-58">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="2" duration="0.5" note="B-59">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="2.5" duration="0.5" note="A-60">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="3" duration="1.0" note="A-61">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="4" duration="1.0" note="A-62">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="1" duration="0.5" note="E-63">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="1.5" duration="0.5" note="E-64">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="2" duration="1.0" note="E-65">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="3" duration="0.5" note="E-66">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="3.5" duration="0.5" note="E-67">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="4" duration="1.0" note="E-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="1" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="2" duration="0.5" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="2.5" duration="0.5" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="3" duration="1.0" note="C-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="4" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="1" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="2" duration="0.5" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="2.5" duration="0.5" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="3" duration="1.0" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="4" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="1" duration="1.0" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="2" duration="0.5" note="C-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="2.5" duration="0.5" note="B-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="3" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="4" duration="1.0" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="1" duration="1.0" note="B-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="2" duration="0.5" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="2.5" duration="0.5" note="F-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="3" duration="1.0" note="D-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="4" duration="1.0" note="C-68">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="1" duration="0.5" note="G-69">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="1.5" duration="0.5" note="A-70">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="2" duration="0.5" note="G-70">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="2.5" duration="0.5" note="E-70">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="3" duration="1.0" note="D-70">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="4" duration="1.0" note="C-70">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="1" duration="1.0" note="A-71">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="2" duration="0.5" note="G-71">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="2.5" duration="0.5" note="E-71">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="3" duration="1.0" note="G-72">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="4" duration="1.0" note="C4">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="1" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="2" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="3" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="4" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="5" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="6" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="7" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="8" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="9" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="10" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="11" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="12" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="13" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="14" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="15" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="16" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="17" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="18" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="27" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="28" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="29" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="1" duration="4" note="A3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="30" beat="1" duration="4" note="E3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="1" duration="4" note="F3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="31" beat="1" duration="4" note="C3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="1" duration="4" note="G3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="32" beat="1" duration="4" note="D3">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="19" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="20" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="21" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="22" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="23" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="24" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="25" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="1" duration="2" note="E5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="26" beat="3" duration="2" note="D5">
+<harmonicsA>1.0 0.6 0.3 0.15 0.08 0.04 0.02 0.01</harmonicsA>
+<harmonicsB>0.8 0.5 0.25 0.12 0.06 0.03 0.015 0.007</harmonicsB>
+</note>
+<note measure="33" beat="1" duration="4" note="C4">
+<harmonicsA>0 0 0 0 0 0 0 0</harmonicsA>
+<harmonicsB>0 0 0 0 0 0 0 0</harmonicsB>
+</note>
+</instrument>
+</score>
