@@ -21,7 +21,11 @@
 
 ## Grading elements supported
 10 - Sinusoid playback on demand from the sequencer
+
 20 - Definition of all harmonics
+
 30 - Envelope generation
+
 35 - Polyphony
+
 40 - Sound cross-fading
