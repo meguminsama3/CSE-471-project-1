@@ -33,5 +33,9 @@
 **Additive synthesizer page:** 
 [Additive synthesizer](https://github.com/meguminsama3/CSE-471-project-1/blob/main/additive.md)
 
+---
+
+**Effects component page:**
+[Effects component](https://github.com/meguminsama3/CSE-471-project-1/blob/main/EffectsComponent.md)
 
 

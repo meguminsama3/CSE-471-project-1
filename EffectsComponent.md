@@ -1,5 +1,6 @@
 # Effects Component
 **Owner:** Charlie Zhu
+
 **Overview:** An audio processor that accepts an audio input and produces an audio output.
 
 ---
