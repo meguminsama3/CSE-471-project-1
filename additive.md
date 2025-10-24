@@ -19,7 +19,7 @@
 
 ---
 
-## Grading elements supported
+## Grading elements supported for one person group
 10 - Sinusoid playback on demand from the sequencer
 
 20 - Definition of all harmonics
