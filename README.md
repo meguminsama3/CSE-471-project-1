@@ -19,26 +19,25 @@
   * The second one is **harmonicsB**. It specifies the different amplitudes of the sine wave for different harmonics for harmonic set B.
 * Example score file:
   ```
-    <?xml version="1.0" encoding="utf-8"?>
-    <score bpm="120" beatspermeasure="2">
-      <instrument instrument="Additive">
+  <?xml version="1.0" encoding="utf-8"?>
+  <score bpm="120" beatspermeasure="2">
+    <instrument instrument="Additive">
 
-        <note measure="3" beat="1" duration="0.5" note="Bb4">
-          <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
-          <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
-        </note>
-        <note measure="3" beat="2" duration="0.5" note="Bb4">
-          <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
-          <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
-        </note>
-        <note measure="4" beat="1" duration="0.5" note="Bb4">
-          <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
-          <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
-        </note>
+      <note measure="3" beat="1" duration="0.5" note="Bb4">
+        <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
+        <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
+      </note>
+      <note measure="3" beat="2" duration="0.5" note="Bb4">
+        <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
+        <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
+      </note>
+      <note measure="4" beat="1" duration="0.5" note="Bb4">
+        <harmonicsA>1.0 0.40 0.20 0.10 0.05 0.02 0.01 0.00</harmonicsA>
+        <harmonicsB>0.8 0.50 0.35 0.25 0.15 0.10 0.06 0.03</harmonicsB>
+      </note>
 
-      </instrument>
-    </score>
-
+    </instrument>
+  </score>
   ```
 
 ---
