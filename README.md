@@ -1,8 +1,8 @@
-# CSE 471 project 1 - Music synthesizer
+# CSE 471 project 1 - Music synthesizer (One person group)
 
 **Title of my music:** Echoes of light
 
-**Group members:** Charlie Zhu
+**Group member:** Charlie Zhu
 
 ---
 
